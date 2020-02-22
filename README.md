@@ -1,1 +1,2 @@
-# GRPC-PYTHON
+# gRPC-workshop
+Repo for gRPC workshop
